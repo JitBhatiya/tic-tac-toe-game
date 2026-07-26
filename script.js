@@ -55,7 +55,7 @@ const enableBoxes = () => {
 
 
 const showWinner = (Winner) => {
-    msg.innerText = `Contratulation , Winner is ${Winner}`;
+    msg.innerText = `Congratulations , Winner is ${Winner}`;
     msgContainer.classList.remove("hide");
     disableBoxes();
 }
