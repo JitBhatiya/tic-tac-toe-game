@@ -22,7 +22,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-
+![Tic Tac Toe Game](images/screenshot.png)
 
 ## 📚 What I Learned
 
